@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?color=C8F759&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
+<br><br>
+
+<img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
+
+
+</div>
 
 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻
 
