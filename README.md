@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-<img src="assets/img1.png" alt="Top Image" width="700" />
+<img src="assets/img1.png" alt="Top Image" width="600" />
 
 <details>
   <summary style="cursor: pointer; outline: none;">
@@ -90,7 +90,7 @@ me.say_hi()
 <br/>
 </details>
 
-<img src="assets/img2.png" alt="Bottom Image" width="700" />
+<img src="assets/img2.png" alt="Bottom Image" width="600" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
 </p>
