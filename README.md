@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?color=C8F759&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?color=blue&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
 
 <img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
-
-
 </div>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=#F7931E&style=plastic" />
+</p>
 
 </div>
 
@@ -33,7 +31,7 @@
 </div>
 
 ```python
-class GhostDev:
+class AI_Student_DS:
     def __init__(self):
         self.name        = "malini"
         self.role        = "AI & Data Science Student"
@@ -41,12 +39,13 @@ class GhostDev:
         self.languages   = ["Python", "R", "SQL", "JavaScript", "C#"]
         self.interests   = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
         self.vibe        = " Haunting datasets since forever"
-        self.coffee      = False  # always
+        self.goal        = building things that think  # always
+        self.coffee      = False
 
     def say_hi(self):
-        print("Thanks for dropping by my haunted repo! 💜⚡")
+        print("Thanks for dropping by my  repo! 💜⚡")
 
-me = GhostDev()
+me = AI_Student_DS()
 me.say_hi()
 ```
 
@@ -58,39 +57,27 @@ me.say_hi()
 
 <div align="center">
 
-**🧠 AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-39FF14?style=for-the-badge&logo=tensorflow&logoColor=111111)
-![PyTorch](https://img.shields.io/badge/PyTorch-BF00FF?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-39FF14?style=for-the-badge&logo=scikit-learn&logoColor=111111)
-![Keras](https://img.shields.io/badge/Keras-BF00FF?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-39FF14?style=for-the-badge&logoColor=111111)
-
-**📊 Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-BF00FF?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=111111)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-BF00FF?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-BF00FF?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**⚙️ Dev & Cloud**
-
-![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-BF00FF?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-39FF14?style=for-the-badge&logo=visual-studio-code&logoColor=111111)
-![Linux](https://img.shields.io/badge/Linux-BF00FF?style=for-the-badge&logo=linux&logoColor=white)
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py" width="48" /> | <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /> | <img src="https://skillicons.dev/icons?i=pytorch" width="48" /> | <img src="https://api.iconify.design/logos:scikit-learn.svg" width="48" /> | <img src="https://skillicons.dev/icons?i=flask" width="48" /> | <img src="https://skillicons.dev/icons?i=fastapi" width="48" /> |
+| `Python` | `TensorFlow` | `PyTorch` | `scikit-learn` | `Flask` | `FastAPI` |
+| | | | | | |
+| <img src="https://skillicons.dev/icons?i=js" width="48" /> | <img src="https://skillicons.dev/icons?i=html" width="48" /> | <img src="https://skillicons.dev/icons?i=css" width="48" /> | <img src="https://skillicons.dev/icons?i=threejs" width="48" /> | <img src="https://skillicons.dev/icons?i=cs" width="48" /> | <img src="https://skillicons.dev/icons?i=dotnet" width="48" /> |
+| `JS` | `HTML` | `CSS` | `Three.js` | `C#` | `.NET` |
+| | | | | | |
+| <img src="https://skillicons.dev/icons?i=java" width="48" /> | <img src="https://skillicons.dev/icons?i=kotlin" width="48" /> | <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=flutter" width="48" /> | <img src="https://skillicons.dev/icons?i=wasm" width="48" /> |
+| `Java` | `Kotlin` | `Node.js` | `React` | `Flutter` | `WASM` |
+| | | | | | |
+| <img src="https://api.iconify.design/logos:pandas-icon.svg" width="48" /> | <img src="https://api.iconify.design/logos:numpy.svg" width="48" /> | <img src="https://api.iconify.design/logos:matplotlib.svg" width="48" /> | <img src="https://api.iconify.design/logos:jupyter.svg" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> | <img src="https://skillicons.dev/icons?i=firebase" width="48" /> |
+| `Pandas` | `NumPy` | `Matplotlib` | `Jupyter` | `MySQL` | `Firebase` |
+| | | | | | |
+| <img src="https://skillicons.dev/icons?i=git" width="48" /> | <img src="https://skillicons.dev/icons?i=github" width="48" /> | <img src="https://skillicons.dev/icons?i=gitlab" width="48" /> | <img src="https://skillicons.dev/icons?i=docker" width="48" /> | <img src="https://skillicons.dev/icons?i=arduino" width="48" /> | <img src="https://skillicons.dev/icons?i=anaconda" width="48" /> |
+| `Git` | `GitHub` | `GitLab` | `Docker` | `Arduino` | `Anaconda` |
+| | | | | | |
+| <img src="https://skillicons.dev/icons?i=vscode" width="48" /> | <img src="https://skillicons.dev/icons?i=visualstudio" width="48" /> | <img src="https://skillicons.dev/icons?i=figma" width="48" /> | <img src="https://skillicons.dev/icons?i=codepen" width="48" /> | <img src="https://skillicons.dev/icons?i=netlify" width="48" /> | <img src="https://api.iconify.design/logos:streamlit.svg" width="48" /> |
+| `VS Code` | `Visual Studio` | `Figma` | `CodePen` | `Netlify` | `Streamlit` |
 
 </div>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antony-jude&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 
 ## 📈 GitHub Metrics Dashboard
 
@@ -108,8 +95,6 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maliniaids-stack&bg_color=0d0d0d&color=39FF14&line=BF00FF&point=ffffff&area=true&hide_border=false&border_color=39FF14" alt="Activity Graph" width="95%"/>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maliniaids-stack&theme=darkhub&no-frame=false&margin-w=10&column=6" alt="GitHub Trophies"/>
 
 </div>
 
