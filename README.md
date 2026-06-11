@@ -79,13 +79,14 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maliniaids-stack&bg_color=0d0d0d&color=39FF14&line=BF00FF&point=ffffff&area=true&hide_border=false&border_color=39FF14" alt="Activity Graph" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maliniaids-stack&theme=2077&bg_color=0d0d0d" alt="Productivity Radar Chart" />
 
 <br/>
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
