@@ -1,27 +1,14 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?color=blue&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?color=F7931E&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
 
 <img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=#F7931E&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
 </p>
 
 </div>
-
----
-
-<!-- Random Quote -->
-<div align="center">
-
-### 💬 Quote of the Refresh
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
-
-</div>
-
----
 
 <!-- About Me -->
 <div align="center">
@@ -148,6 +135,19 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer&text=👻+Happy+Haunting!&fontSize=30&fontColor=39FF14&animation=fadeIn" width="100%"/>
 
 </div>
+
+---
+
+<!-- Random Quote -->
+<div align="center">
+
+### 💬 Quote of the Refresh
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+
+</div>
+
+---
 
 ---
 
