@@ -1,16 +1,19 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?color=F7931E&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
 
-<img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
+<div align="center">
+
+<img src="assets/img1.png" alt="Top Image" width="800" />
+
+<details>
+  <summary style="cursor: pointer; outline: none;">
+    <b>OpEn</b>
+  </summary>
+  <br/>
+</details>
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
-</p>
-
-</div>
-
-<!-- About Me -->
+  <!-- About Me -->
 <div align="center">
 
 ## `whoami`
@@ -35,10 +38,6 @@ class AI_Student_DS:
 me = AI_Student_DS()
 me.say_hi()
 ```
-
----
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -65,17 +64,6 @@ me.say_hi()
 | `VS Code` | `Visual Studio` | `Figma` | `CodePen` | `Netlify` | `Streamlit` |
 
 </div>
-<br></br>
-<div align="center">
-
-<img src="assets/img1.png" alt="Top Image" width="300" />
-
-<details>
-  <summary style="cursor: pointer; outline: none;">
-    <img src="https://img.icons8.com/color/96/play--v1.png" alt="Play Button" width="50" />
-  </summary>
-  
-  <br/>
   
   ## 📈 GitHub Metrics Dashboard
 
@@ -92,7 +80,7 @@ me.say_hi()
 
   <br/>
 
-  ---
+
 
   ## 🌌 Currently Haunting...
 
@@ -108,22 +96,15 @@ me.say_hi()
 
 <br/>
 
-<img src="assets/img2.png" alt="Bottom Image" width="300" />
+<img src="assets/img2.png" alt="Bottom Image" width="800" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
+</p>
 
 </div>
+<br></br>
 
-
-<div align="center">
-
-## 📫 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BF00FF?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/malini-s-8a2601300])
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with fellow ghost devs — say hi! 👻💜</em>
-#portfolio link https://malinisportfolio.netlify.app/ 
----
-</div>
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -135,16 +116,15 @@ me.say_hi()
 
 </div>
 
----
-
-<!-- Random Quote -->
-<div align="center">
-
-### 💬 Quote of the Refresh
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
-
+<img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
 </div>
 
----
-# Thank you for visiting
+<div align="center">
+
+##  Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malini-s-8a2601300)
+[![Email](https://img.shields.io/badge/Email-BF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malini.aids@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F7931E?style=for-the-badge&logo=netlify&logoColor=white)](https://malinisportfolio.netlify.app/)
+
+</div>
