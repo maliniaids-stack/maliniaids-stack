@@ -29,14 +29,11 @@ class AI_Student_DS:
         self.coffee = False
 
     def say_hi(self):
-        print("The beauty hides the align⚡")
-
 
 me = AI_Student_DS()
 me.say_hi()
 
 ```
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
