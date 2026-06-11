@@ -1,42 +1,40 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?color=F7931E&lines=Happy+vibes+as+you+arrive" alt="Typing SVG" />
-
+</div>
 <div align="center">
 
-<img src="assets/img1.png" alt="Top Image" width="800" />
+<img src="assets/img1.png" alt="Top Image" width="100%" />
 
 <details>
   <summary style="cursor: pointer; outline: none;">
-    <b>OpEn</b>
+    <b>CLICK HERE -opens JUDE MODE -gratitude inside the stack</b>
   </summary>
   <br/>
-</details>
 
-</div>
   <!-- About Me -->
 <div align="center">
 
 ## `whoami`
 
-</div>
-
 ```python
-class AI_Student_DS:
+class AI_Student_DS: 
     def __init__(self):
-        self.name        = "malini"
-        self.role        = "AI & Data Science Student"
-        self.location    = "🌍 Earth (mostly)"
-        self.languages   = ["Python", "R", "SQL", "JavaScript", "C#"]
-        self.interests   = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
-        self.vibe        = " Haunting datasets since forever"
-        self.goal        = building things that think  # always
-        self.coffee      = False
+        self.name = "malini"
+        self.role = "AI & Data Science Student"
+        self.location = "🌍 Earth (mostly)"
+        self.languages = ["Python", "R", "SQL", "JavaScript", "C#"]
+        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
+        self.vibe = "Haunting datasets since forever"
+        self.goal = "Building things that think"  # always
+        self.coffee = False
 
     def say_hi(self):
-        print("Thanks for dropping by my  repo! 💜⚡")
+        print("The beauty hides the align⚡")
+
 
 me = AI_Student_DS()
 me.say_hi()
+
 ```
 
 ## 🛠️ Tech Stack & Tools
@@ -92,11 +90,10 @@ me.say_hi()
   | Rubik Cube Solver | Three.js, JavaScript | 🟢 Active |
   | DIY Ventilator | Arduino, IoT | 🏆 Finalist |
 
+<br/>
 </details>
 
-<br/>
-
-<img src="assets/img2.png" alt="Bottom Image" width="800" />
+<img src="assets/img2.png" alt="Bottom Image" width="100%" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
 </p>
