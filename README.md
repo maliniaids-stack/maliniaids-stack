@@ -65,29 +65,64 @@ me.say_hi()
 | `VS Code` | `Visual Studio` | `Figma` | `CodePen` | `Netlify` | `Streamlit` |
 
 </div>
-
-## 📈 GitHub Metrics Dashboard
-
+<br></br>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maliniaids-stack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=39FF14&icon_color=BF00FF&text_color=ffffff&border_color=39FF14"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliniaids-stack&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff&border_color=BF00FF"/>
+<img src="assets/img1.png" alt="Top Image" width="300" />
+
+<details>
+  <summary style="cursor: pointer; outline: none;">
+    <img src="https://img.icons8.com/color/96/play--v1.png" alt="Play Button" width="50" />
+  </summary>
+  
+  <br/>
+  
+  ## 📈 GitHub Metrics Dashboard
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maliniaids-stack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=39FF14&icon_color=BF00FF&text_color=ffffff&border_color=39FF14"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliniaids-stack&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff&border_color=BF00FF"/>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maliniaids-stack&theme=highcontrast&background=0d0d0d&ring=39FF14&fire=BF00FF&currStreakLabel=39FF14&sideLabels=ffffff&border=39FF14" alt="GitHub Streak"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maliniaids-stack&theme=2077&bg_color=0d0d0d" alt="Productivity Radar Chart" />
+
+  <br/>
+
+  ---
+
+  ## 🌌 Currently Haunting...
+
+  | 👻 Project | 🧠 Stack | ⚡ Status |
+  | :--- | :--- | :--- |
+  | Smart Parking System | ESP32, Firebase, IoT | 🟢 Active |
+  | Company Knowledge Base Portal | Flask, AI, Vector Search | 🟢 Active |
+  | ECG Analyzer App | Python, ML | 🟢 Active |
+  | Rubik Cube Solver | Three.js, JavaScript | 🟢 Active |
+  | DIY Ventilator | Arduino, IoT | 🏆 Finalist |
+
+</details>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maliniaids-stack&theme=highcontrast&background=0d0d0d&ring=39FF14&fire=BF00FF&currStreakLabel=39FF14&sideLabels=ffffff&border=39FF14" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maliniaids-stack&theme=2077&bg_color=0d0d0d" alt="Productivity Radar Chart" />
-
-<br/>
+<img src="assets/img2.png" alt="Bottom Image" width="300" />
 
 </div>
 
+
+<div align="center">
+
+## 📫 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BF00FF?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/malini-s-8a2601300])
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with fellow ghost devs — say hi! 👻💜</em>
+#portfolio link https://malinisportfolio.netlify.app/ 
 ---
-
-
+</div>
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -97,43 +132,6 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maliniaids-stack/maliniaids-stack/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/maliniaids-stack/maliniaids-stack/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## 🌌 Currently Haunting...
-
-<div align="center">
-
-| 👻 Project                    | 🧠 Stack                 | ⚡ Status    |
-| ----------------------------- | ------------------------ | ----------- |
-| Smart Parking System          | ESP32, Firebase, IoT     | 🟢 Active   |
-| Company Knowledge Base Portal | Flask, AI, Vector Search | 🟢 Active   |
-| ECG Analyzer App              | Python, ML               | 🟢 Active   |
-| Rubik Cube Solver             | Three.js, JavaScript     | 🟢 Active   |
-| DIY Ventilator                | Arduino, IoT             | 🏆 Finalist |
-
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Find the Ghost
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maliniaids-stack)
-[![Twitter](https://img.shields.io/badge/Twitter-39FF14?style=for-the-badge&logo=twitter&logoColor=111111)](https://twitter.com/maliniaids-stack)
-[![Kaggle](https://img.shields.io/badge/Kaggle-BF00FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maliniaids-stack)
-
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with fellow ghost devs — say hi! 👻💜</em>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer&text=👻+Happy+Haunting!&fontSize=30&fontColor=39FF14&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -149,4 +147,4 @@ me.say_hi()
 </div>
 
 ---
-
+# Thank you for visiting
