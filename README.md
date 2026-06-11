@@ -8,7 +8,7 @@
 
 </div>
 
-👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻 &nbsp; 👻
+
 
 </div>
 
@@ -28,19 +28,19 @@
 <!-- About Me -->
 <div align="center">
 
-## 👻 `whoami`
+## `whoami`
 
 </div>
 
 ```python
 class GhostDev:
     def __init__(self):
-        self.name        = "maliniaids-stack"
-        self.role        = "AI & Data Science Enthusiast"
+        self.name        = "malini"
+        self.role        = "AI & Data Science Student"
         self.location    = "🌍 Earth (mostly)"
-        self.languages   = ["Python", "R", "SQL", "JavaScript"]
+        self.languages   = ["Python", "R", "SQL", "JavaScript", "C#"]
         self.interests   = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
-        self.vibe        = "👻 Haunting datasets since forever"
+        self.vibe        = " Haunting datasets since forever"
         self.coffee      = False  # always
 
     def say_hi(self):
@@ -84,7 +84,13 @@ me.say_hi()
 
 </div>
 
+
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antony-jude&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 📈 GitHub Metrics Dashboard
 
