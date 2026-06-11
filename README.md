@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-<img src="assets/img1.png" alt="Top Image" width="100%" />
+<img src="assets/img1.png" alt="Top Image" width="800" />
 
 <details>
   <summary style="cursor: pointer; outline: none;">
@@ -90,7 +90,7 @@ me.say_hi()
 <br/>
 </details>
 
-<img src="assets/img2.png" alt="Bottom Image" width="100%" />
+<img src="assets/img2.png" alt="Bottom Image" width="800" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maliniaids-stack&label=Profile+Views&color=F7931E&style=plastic" />
 </p>
@@ -110,7 +110,7 @@ me.say_hi()
 
 </div>
 
-<img src="assets/hero-section.jpg" width="100%" alt="Hero Banner" />
+<img src="assets/hero-section.jpg" width="800" alt="Hero Banner" />
 </div>
 
 <div align="center">
