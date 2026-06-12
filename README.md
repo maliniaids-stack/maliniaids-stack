@@ -24,8 +24,8 @@ class AI_Student_DS:
         self.location = "🌍 Earth (mostly)"
         self.languages = ["Python", "R", "SQL", "JavaScript", "C#"]
         self.interests = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
-        self.vibe = "Haunting datasets since forever"
-        self.goal = "Building things that think"  # always
+        self.vibe = "The genesis of my era was marked by the allegiance of my members"
+        self.goal = "Beauty forgets the indent"  # always
         self.coffee = False
 
     def say_hi(self):
@@ -70,8 +70,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maliniaids-stack&theme=highcontrast&background=0d0d0d&ring=39FF14&fire=BF00FF&currStreakLabel=39FF14&sideLabels=ffffff&border=39FF14" alt="GitHub Streak"/>
 
   <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maliniaids-stack&theme=2077&bg_color=0d0d0d" alt="Productivity Radar Chart" />
 
   <br/>
 
